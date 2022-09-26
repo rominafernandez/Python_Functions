@@ -2,7 +2,7 @@
 ### Course Applied Bioinformatics and Biostatistics
 All exercises done in the functions part of module 1.
 
-* Exercise 28 - Your first functions: [`FirstFuncs.py`](https://github.com/rominafernandez/Python_Functions/blob/master/FirstFuncs.py)
+* Exercise 28 - Your first functions: [`FirstFuncts.py`](https://github.com/rominafernandez/Python_Functions/blob/master/FirstFuncts.py)
 * Exercise 29 - Functions with simple loops: [`FuncsSimpleLoops.py`](https://github.com/rominafernandez/Python_Functions/blob/master/FuncsSimpleLoops.py)
 * Exercise 30 - Functions with nested loops: [`FuncsNestedLoops.py`](https://github.com/rominafernandez/Python_Functions/blob/master/FuncsNestedLoops.py)
 * Exercise 31 - Multiple returns: [`MultiReturns.py`](https://github.com/rominafernandez/Python_Functions/blob/master/MultiReturns.py)
